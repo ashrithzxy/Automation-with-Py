@@ -1,3 +1,6 @@
+'''
+Script to compare files in two folders and copy those which are not overlapping.
+'''
 import os
 import shutil
 source = "Source Path"
